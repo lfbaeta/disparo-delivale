@@ -1,0 +1,1 @@
+import{MessageCircle}from"lucide-react";export default function Conversations(){return <section className="panel"><h2>Conversas</h2><div className="empty"><MessageCircle/><b>Caixa de entrada centralizada</b><span>As mensagens recebidas pelo webhook aparecerão aqui em tempo real.</span></div></section>}
