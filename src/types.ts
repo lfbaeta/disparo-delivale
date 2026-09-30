@@ -1,1 +1,1 @@
-export type Page="Enviar mensagem"|"Inteligência Artificial"|"Histórico"|"Conexão Evolution";
+export type Page="Enviar mensagem"|"Inteligência Artificial"|"Enviados"|"Conexão Evolution";
